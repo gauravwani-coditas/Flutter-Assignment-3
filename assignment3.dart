@@ -24,6 +24,7 @@ while(lowerIndex < length1){
 }
 
 return intersectionArray;
+//done
 
 }
 
