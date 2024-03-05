@@ -167,7 +167,7 @@ int lengthOfLongestSubstring(String s) {
 
 void main() {
 
-  //1
+  //1 Mapping
   print("\n--------Return Array of Squares--------\n");
   List<int> numbers = [-4, -1, 0, 3, 10];
 
@@ -181,7 +181,7 @@ void main() {
   numbers.map((element) => element * element);
   print(numbers);
 
-  //2
+  //2 Two sum problem
   print("\n---------Two sum----------");
   List<int> array = [2, 7, 11, 15];
   int target = 9;
